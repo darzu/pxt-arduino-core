@@ -1,0 +1,20 @@
+{
+  "name": "pxt-arduino-core",
+  "version": "0.0.1",
+  "description": "The glue layer that binds together PXT programs compiled to C++ and a BBC micro:bit runtime system.",
+  "keywords": [],
+  "author": "Microsoft Corporation",
+  "repository": {
+    "url": "ssh://git@github.com:Microsoft/pxt-arduino-core.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/microsoft/pxt-arduino-core",
+  "license": "MIT",
+  "dependencies": {
+    "nrf51dk-microbit": "/finneyj/nrf51dk-microbit/#master"
+  },
+  "targetDependencies": {},
+  "extraIncludes": [
+    "inc"
+  ]
+}
