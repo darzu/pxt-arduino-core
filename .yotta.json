@@ -1,0 +1,6 @@
+{
+  "build": {
+    "target": "nrf51dk-classic-gcc,*",
+    "targetSetExplicitly": true
+  }
+}

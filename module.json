@@ -11,7 +11,7 @@
   "homepage": "https://github.com/microsoft/pxt-arduino-core",
   "license": "MIT",
   "dependencies": {
-    "nrf51dk-microbit": "/finneyj/nrf51dk-microbit/#master"
+    "nrf51dk-microbit": "finneyj/nrf51dk-microbit#master"
   },
   "targetDependencies": {},
   "extraIncludes": [
