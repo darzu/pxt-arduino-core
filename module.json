@@ -1,6 +1,6 @@
 {
   "name": "pxt-arduino-core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The glue layer that binds together PXT programs compiled to C++ and a BBC micro:bit runtime system.",
   "keywords": [],
   "author": "Microsoft Corporation",
